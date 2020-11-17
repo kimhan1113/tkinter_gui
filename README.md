@@ -1,3 +1,3 @@
-# tkinter_gui
+# Tkinter_GUI
 
 ## From https://nadocoding.tistory.com/9
